@@ -1,0 +1,29 @@
+Dia 19/11/2025--> Criação e Implementação do Projeto
+Criação das tabelas de backend Vagas.js e admiadmintabela.js. Conéxão á BD empjobs.
+----------------------------------------------
+Dia 21/11/2025-->Criação do Prótotipo de Alta Fidelidade no figma_Link:https://www.figma.com/design/GKTDJMwnKCoc0EQIhZqAVk/empjobs?node-id=10-120&t=2nSAkyU2uBGwxbQY-1
+---------------------------------------------
+Dia 24/11/2025-->Finalização do Prototipo de Alta Fidelidade no figma
+                Criação e Implementação dos Componentes de Footer e Header do Projeto
+---------------------------------------------
+Dia 25/11/2025-->Criação da Api na pasta api backend com a conexão à BD e as 2 camadas (controladoes e rotas)
+Correção Erros no Header e no Footer
+Conexão á BD e ao servidor Node atraves do auth.js na pasta stores
+Criação da tabela login no loginView.vue
+Validação dos Campos e Solução dos Erros no formulário de login
+Criação da Vue do Admin Dashboard com o Menu superior com as 3 opções de Criação e Edição e sair do Painel de Admistrador.
+Criação ainda só em Frontend do formulário de Criação de Vagas
+---------------------------------------------
+Dia 1/12/2025--> Implementação do CRUD
+Criação doas controladores de vagas e rotas da Api
+Testes do Crud que fuyncionam 
+---------------------------------------------
+Dia 2/12/2025--> Correção do Erro de Edição de Vagas
+Correção do Erro de Apagar Vagas
+Correção erro do caminho de Imagens
+Composição da View SObreView.vue
+---------------------------------------------
+Dia 3/12/2025--> Criação do da View VagasView.vue onde instalei  extensão do VUE do Google Maps npm install vue3-google-map
+----------------------------------------------
+Dia 4/12/2025 ate ao dia 08/01/2026--> Testes Finais e Correção de Bugs
+Ajustes Finais no Projeto
